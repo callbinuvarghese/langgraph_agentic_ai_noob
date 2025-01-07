@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_tools1.TestCustomSearchTool-20241225225830" tests="4" file="test_tools1.py" time="0.065" timestamp="2024-12-25T22:58:30" failures="0" errors="0" skipped="0">
+	<testcase classname="test_tools1.TestCustomSearchTool" name="test_case_insensitivity" time="0.062" timestamp="2024-12-25T22:58:30" file="test_tools1.py" line="48"/>
+	<testcase classname="test_tools1.TestCustomSearchTool" name="test_news_search" time="0.001" timestamp="2024-12-25T22:58:30" file="test_tools1.py" line="38"/>
+	<testcase classname="test_tools1.TestCustomSearchTool" name="test_no_results" time="0.001" timestamp="2024-12-25T22:58:30" file="test_tools1.py" line="44"/>
+	<testcase classname="test_tools1.TestCustomSearchTool" name="test_weather_search" time="0.001" timestamp="2024-12-25T22:58:30" file="test_tools1.py" line="32"/>
+</testsuite>
